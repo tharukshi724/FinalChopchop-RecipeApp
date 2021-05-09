@@ -1,3 +1,64 @@
 <resources>
     <string name="app_name">FinalChopchop-RecipeApp</string>
+
+    <string name="toolbarappname">chop chop</string>
+    <string name="toolbar_name">Pantry</string>
+    <string name="heading">Add items</string>
+    <string name="headingtoedit">Edit items</string>
+    <string name="itemNametxt">Item</string>
+    <string name="itemSizetxt">Size</string>
+    <string name="datetxt">Exp Date</string>
+    <string name="itemNamehint">Enter item name</string>
+    <string name="itemSizehint">Enter item size</string>
+    <string name="datehint">Enter exp date</string>
+    <string name="radio1">before 2 weeks</string>
+    <string name="radio2">before month</string>
+    <string name="addbutton">Add to model</string>
+    <string name="editbutton">save</string>
+
+
+
+
+        <string name="recipe_name">Recipe Name</string>
+        <string name="ingredients">Ingredients</string>
+        <string name="method">Method</string>
+        <string name="update">Update</string>
+        <string name="delete">Delete</string>
+        <string name="image">TODO</string>
+        <string name="search">Search</string>
+        <string name="addicon">TODO</string>
+        <string name="urecipe_name">Recipe Name</string>
+        <string name="umethod">Method</string>
+        <string name="select_image">Select Image</string>
+        <string name="upload_recipe">Upload Recipe</string>
+        <string name="uingredients">Ingredients</string>
+        <string name="title">Title</string>
+        <string name="unit_convertor">Unit Convertor</string>
+        <string name="convert">Convert</string>
+        <string name="clear">Clear</string>
+        <string name="set">SET</string>
+        <string-array name="spinunit">
+            <item>kg - g</item>
+            <item>lbs - kg</item>
+            <item>g - mg</item>
+            <item>l - ml</item>
+            <item>table spoon - ml</item>
+        </string-array>
+
+    <resources>
+
+        <string name="toolbarname">Grocery</string>
+        <string name="save">SAVE</string>
+        <string name="List">Grocery List</string>
+        <string name="gname">Name</string>
+        <string name="gqty">qty</string>
+        <string name="gitems">Items</string>
+        <string name="gprice">Price</string>
+        <string name="ritem">item</string>
+        <string name="rprice">price</string>
+        <string name="tbutton">Button</string>
+        <string name="tname">Name</string>
+    </resources>
+
+
 </resources>
