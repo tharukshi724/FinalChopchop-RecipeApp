@@ -28,7 +28,7 @@ public class Test extends AppCompatActivity {
         input=findViewById(R.id.input);
         save=findViewById(R.id.buttoninput);
 
-        com.example.grocery.TestJava obj = new com.example.grocery.TestJava();
+        TestJava obj = new TestJava();
 
         save.setOnClickListener(new View.OnClickListener() {
             @Override
